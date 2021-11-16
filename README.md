@@ -7,7 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/93324578/141996420-a5be3b8f-0e5b-4180-aed7-d02ac1f12481.png)
 
-开发工具：Pycharm21.2
+开发工具：Pycharm 21.2
+
+开发语言：Python 3.8
 
 项目描述：上周的人工智能实验课要求我们做一个基于Python的简单的专家系统并用PyQt5实现图形化界面。于是我结合之前爬取的bilibili和慕课网的网课信息做了一个基于课程标签分类的智能推荐专家系统
 
