@@ -1,11 +1,9 @@
-@[TOC](基于课程标签分类的智能推荐专家系统（Python+PyQt5实现）)
-
 # 写在前面
 项目名称：基于课程标签分类的智能推荐专家系统v1.0
 
-软件环境：Windows 10 64位
+软件环境：Windows 10 64位 家庭中文版
 
-硬件环境：
+硬件环境：![image](https://user-images.githubusercontent.com/93324578/141996420-a5be3b8f-0e5b-4180-aed7-d02ac1f12481.png)
 
 开发工具：Pycharm21.2
 
@@ -27,17 +25,17 @@
 
 开始界面：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9793bb156c55489c913b3d8758bbb533.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![image](https://user-images.githubusercontent.com/93324578/141995199-5c1dcfe5-938d-4edd-b181-cc0cf0a9a809.png)
 添加规则：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/ec80da46bd564439a9f8f2e786f977cb.png)
+![image](https://user-images.githubusercontent.com/93324578/141995430-cf612036-51ac-40bc-978f-085b0ec32fab.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/07c7a50cdc3349f1b5ec048a474b80ff.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_19,color_FFFFFF,t_70,g_se,x_16)
+![image](https://user-images.githubusercontent.com/93324578/141995463-0095fbbc-4b99-4538-831c-c8e39fd69e80.png)
 开始推理：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7894488757a846a7879a725ae0f556f7.png)
+![image](https://user-images.githubusercontent.com/93324578/141995538-cb746a5a-b9fc-4f7a-bdf1-6608af226d3d.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/67fe63ab1fab43c5aab43ebe295a8ac5.png)
+![image](https://user-images.githubusercontent.com/93324578/141995582-b0fbb648-3c03-486f-9b3f-38f61f9e79de.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/447d01656d84484eb76bfc3ecfc194bd.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![image](https://user-images.githubusercontent.com/93324578/141995817-5990157d-1083-4892-b269-f76a266c24ee.png)
 
