@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/93324578/141996420-a5be3b8f-0e5b-4180-aed7-d02ac1f12481.png)
 
-开发工具：Pycharm 21.2
+开发工具：Pycharm 21.2 , Qt Designer
 
 开发语言：Python 3.8
 
