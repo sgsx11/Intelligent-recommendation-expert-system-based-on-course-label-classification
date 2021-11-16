@@ -26,11 +26,18 @@
 # 图形界面展示
 
 开始界面：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/9793bb156c55489c913b3d8758bbb533.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_20,color_FFFFFF,t_70,g_se,x_16)
 添加规则：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ec80da46bd564439a9f8f2e786f977cb.png)
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/07c7a50cdc3349f1b5ec048a474b80ff.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_19,color_FFFFFF,t_70,g_se,x_16)
 开始推理：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7894488757a846a7879a725ae0f556f7.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/67fe63ab1fab43c5aab43ebe295a8ac5.png)![在这里插入图片描述](https://img-blog.csdnimg.cn/447d01656d84484eb76bfc3ecfc194bd.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/67fe63ab1fab43c5aab43ebe295a8ac5.png)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/447d01656d84484eb76bfc3ecfc194bd.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAc2dzeDEx,size_20,color_FFFFFF,t_70,g_se,x_16)
 
